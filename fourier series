@@ -1,0 +1,22 @@
+close all;
+clear all;
+
+N = 100;    % Take the number of expansion terms as 2N+1
+
+T = 1;
+fs = 1/T;
+N_sample = 128;     % To plot waveshape, set the num of sample points
+dt = T/N_sample;
+
+t = 0:dt:10*T-dt;
+n = -N:N;
+Fn = sinc(n/2).*exp(-1j*n*pi/2);     % Fourier series
+Fn(N+1) = 0;
+ft = zeros(1,length(t));
+for m = -N:N
+    ft = ft + Fn(m+N+1)*exp(1j*2*pi*m*fs*t);    % m+N+1 is making the serial nums postive
+    %ft = ft + sinc(m/2).*exp(-1j*m*pi/2)*exp(1j*2*pi*m*fs*t); %is also ok
+end
+
+plot(t,ft);
+    
