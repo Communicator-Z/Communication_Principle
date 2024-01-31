@@ -1,8 +1,5 @@
-# MATLAB仿真——通信相关内容
+# MATLAB基础
 
-## 目录如下
-
-- [MATLAB基础操作1](zh-cn/guide)
-- [内容](zh-cn/guide)
+-[01 - 基础操作语法](./note/Basic-1.md)
 
 > An awesome project.
