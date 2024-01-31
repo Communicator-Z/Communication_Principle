@@ -36,7 +36,7 @@
 
   The result graph is as follows:
 
-  <img src="E:\各种学习资料\研究生阶段\MATLAB\matlab_personal_practice\Communicaiton_principle\determinate signal\priodic signal\signal_and_system\continuous_time_signal\1.jpg" style="zoom: 50%;" />
+  <img src="[E:\各种学习资料\研究生阶段\MATLAB\matlab_personal_practice\Communicaiton_principle\determinate signal\priodic signal\signal_and_system\continuous_time_signal\1.jpg](https://github.com/Communicator-Z/Communication_Principle/blob/main/picture/1.jpg)" style="zoom: 50%;" />
 
 - Use function to generate graph:
 
