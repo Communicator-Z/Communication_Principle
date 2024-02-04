@@ -26,7 +26,7 @@
   
   
   
-  ![](../picture/3.jpg)
+  ![](../picture/lec1/3.jpg)
   
   
   
@@ -55,7 +55,7 @@
   
   The result graph is as follows:
   
-  ![](../picture/4.jpg)
+  ![](../picture/lec1/4.jpg)
   
   
   
@@ -87,7 +87,7 @@
   
   The result graph is as follows:
   
-  ![](../picture/5.jpg)
+  ![](../picture/lec1/5.jpg)
   
 - Part IV
   
@@ -115,7 +115,7 @@
   
   The result graph is as follows:
   
-  ![](../picture/6.jpg)
+  ![](../picture/lec1/6.jpg)
 
 
 

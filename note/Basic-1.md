@@ -36,7 +36,7 @@
 
   The result graph is as follows:
 
-  ![](../picture/1.jpg)
+  ![](../picture/lec1/1.jpg)
 
 - Use function to generate graph:
 
@@ -65,7 +65,5 @@
 
   The result graph is as follows:
 
-![](../picture/2.jpg)
-
-  
+![](../picture/lec1/2.jpg)
 
